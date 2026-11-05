@@ -1,2 +1,2 @@
-import{j as i}from"react-vendor-CwBS0qW1.js";import{p as n}from"index-Bc5ILkDb-D162cpXf.js";import"runtime-react.js";const m=({getAppData:a,setAppData:t,disabled:r,slug:e})=>{const s=a("trackingId");return i.jsx(n,{dataTestid:e,name:"Tracking ID",value:s,disabled:r,onChange:o=>{t("trackingId",o.target.value)}})};export{m as default};
+import{j as i}from"./react-vendor-CwBS0qW1.js";import{p as n}from"./index-Bc5ILkDb-D162cpXf.js";import"./runtime-react.js";const m=({getAppData:a,setAppData:t,disabled:r,slug:e})=>{const s=a("trackingId");return i.jsx(n,{dataTestid:e,name:"Tracking ID",value:s,disabled:r,onChange:o=>{t("trackingId",o.target.value)}})};export{m as default};
 //# sourceMappingURL=EventTypeAppSettingsInterface-BADk3O7K-Ni0hlYGU.js.map
