@@ -1,0 +1,2 @@
+import{j as n}from"react-vendor-CwBS0qW1.js";import{p as o}from"index-Bc5ILkDb-D162cpXf.js";import"runtime-react.js";const g=({getAppData:t,setAppData:a,disabled:r})=>{const e=t("trackingId");return n.jsx(o,{name:"Tracking ID","data-testid":"gtm-tracking-id-input",value:e,disabled:r,onChange:i=>{a("trackingId",i.target.value)}})};export{g as default};
+//# sourceMappingURL=EventTypeAppSettingsInterface-LbM_iIAR-Ck28BNjm.js.map
